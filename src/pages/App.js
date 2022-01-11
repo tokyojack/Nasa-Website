@@ -33,7 +33,7 @@ function App() {
                 </Container>
             ) : <Loader color={"white"}/>}
 
-            <GithubCorner bannerColor="white" octoColor="black" href="https://github.com/username/repo"/>
+            <GithubCorner bannerColor="white" octoColor="black" href="https://github.com/tokyojack/Nasa-Website"/>
         </Box>
     );
 }
